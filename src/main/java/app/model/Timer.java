@@ -7,4 +7,7 @@ public class Timer {
     public Long getTime() {
         return nanoTime;
     }
+    public String getmessage(){
+        return  "It is timer" ;
+    }
 }
